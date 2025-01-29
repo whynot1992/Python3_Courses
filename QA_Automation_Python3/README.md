@@ -1,12 +1,12 @@
-  QA Automation Python Journey 🤖
-  
-  Welcome to my learning journey in QA Automation with Python! 🧪
-  
-  This repository documents my progress through the QA Automation Python course, focusing on test automation using Python. It includes all the key resources I used to learn and practice automation techniques, including:
+QA Automation Python Подорож 🤖
 
-  - Video Lessons 🎥 — Links to video tutorials that guide me through various aspects of test automation with Python.
-  - Tasks 📝 — Practical tasks that helped me understand how to automate different testing processes.
-  - Homework 💻 — My completed homework assignments, showcasing my growing skills in writing automated tests.
-  - Materials 📑 — Additional resources and notes that helped me understand the tools and frameworks used in test automation.
-    
-  This repository is a record of my path towards mastering test automation with Python, and it shows the hands-on experience I gained throughout the course. I'm excited to share my journey and insights with you! 🌟
+Ласкаво просимо до моєї подорожі вивчення автоматизації тестування з Python! 🧪
+
+Цей репозиторій документує мій прогрес у курсі QA Automation Python, який зосереджений на автоматизації тестування за допомогою Python. Тут ви знайдете всі ключові ресурси, які я використовував для вивчення та практики технік автоматизації, зокрема:
+
+🎥 Відео-уроки — Посилання на відео-уроки, що проводять мене через різні аспекти автоматизації тестування з Python.
+📝 Завдання — Практичні завдання, що допомогли мені зрозуміти, як автоматизувати різні процеси тестування.
+💻 Домашні завдання — Мої виконані домашні завдання, що демонструють мої зростаючі навички у написанні автоматизованих тестів.
+📑 Матеріали — Додаткові ресурси та нотатки, які допомогли мені зрозуміти інструменти та фреймворки, що використовуються в автоматизації тестування.
+
+Цей репозиторій є записом мого шляху до освоєння автоматизації тестування з Python, і він показує практичний досвід, який я здобув під час курсу. Я радий поділитися своєю подорожжю та висновками з вами! 🌟
