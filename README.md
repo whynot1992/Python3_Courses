@@ -1,36 +1,36 @@
-  Python Courses
-  
-  Python3_Basic_Hillel 🐍
-  This course covers the basics of Python3, including fundamental concepts, syntax, and data structures. The course will include:
+Курси Python
 
-  - Lessons — step-by-step video lessons on Python fundamentals.
-  - Homework — my solutions to the homework assignments completed as part of the course.
-  - Links to video lessons — all lessons can be found via the provided links.
+Python3_Basic_Hillel 🐍
+Цей курс охоплює основи Python3, включаючи фундаментальні концепції, синтаксис і структури даних. Курс містить:
 
-  This course includes:
+🎥 Лекції — покрокові відео-лекції з основ Python.
+📝 Домашні завдання — мої розв'язки домашніх завдань, виконаних у межах курсу.
+🔗 Посилання на відео-лекції — всі лекції доступні через надані посилання.
+📚 Матеріали — додаткові ресурси, які допомагають глибше освоїти матеріал.
 
-  - Python3 basics
-  - Data operations
-  - Flow control
-  - Basics of OOP (object-oriented programming)
-  This course helps to master the fundamental concepts of Python, which are the foundation for further learning the language. 📚
+Цей курс включає:
+
+🔤 Основи Python3
+🔢 Операції з даними
+🔄 Управління потоком
+💻 Основи ООП (об'єктно-орієнтованого програмування)
+Цей курс допомагає освоїти основні концепції Python, які є основою для подальшого вивчення мови. 📚
 
 QA Automation Python 🤖
-This course focuses on test automation using Python. It includes video lessons and homework assignments that will teach me how to write tests and automate software testing processes.
+Цей курс зосереджений на автоматизації тестування за допомогою Python. Він містить відео-лекції та домашні завдання, які навчать мене писати тести та автоматизувати процеси тестування програмного забезпечення.
 
-  This course includes:
+Цей курс включає:
 
-  - Video lessons on creating and running automated tests
-  - Homework with practical tasks
-  - Assignments on writing tests using frameworks like pytest and unittest
-  This course is ideal for those who want to dive into test automation with Python and improve their skills in writing high-quality test code. 🧪
+🎬 Відео-лекції з створення та виконання автоматизованих тестів
+📑 Домашні завдання з практичними завданнями
+🛠️ Завдання на написання тестів за допомогою фреймворків, таких як pytest та unittest
+Цей курс ідеально підходить для тих, хто хоче зануритись в автоматизацію тестування за допомогою Python і покращити свої навички у написанні високоякісного тестового коду. 🧪
 
-My Python Learning Journey 🚀
-In these repositories, you will find the entire journey of my Python learning process, including:
+Моя подорож вивчення Python 🚀
+У цих репозиторіях ви знайдете всю подорож мого навчального процесу Python, включаючи:
 
-  - Progress and completed assignments.
-  - Code examples.
-  - Links to video lessons.
-  - Notes and insights from each lesson.
-
-I am continuously developing my skills, and each course is a step towards improving my knowledge of Python. 💻
+✅ Прогрес і виконані завдання
+🖥️ Приклад коду
+🎥 Посилання на відео-лекції
+📓 Нотатки та висновки з кожної лекції
+Я постійно розвиваю свої навички, і кожен курс є кроком до покращення моїх знань з Python. 💻
