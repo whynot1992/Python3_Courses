@@ -1,5 +1,7 @@
   QA Automation Python Journey 🤖
+  
   Welcome to my learning journey in QA Automation with Python! 🧪
+  
   This repository documents my progress through the QA Automation Python course, focusing on test automation using Python. It includes all the key resources I used to learn and practice automation techniques, including:
 
   - Video Lessons 🎥 — Links to video tutorials that guide me through various aspects of test automation with Python.
