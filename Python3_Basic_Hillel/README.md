@@ -1,11 +1,17 @@
-  Python3_Basic_Hillel Journey 🚀
-  
-  Welcome to my learning journey in Python! 📚
-  This repository documents my progress through the Python3_Basic_Hillel course. It contains all the essential materials and resources I used during my study, including:
+Python3_Basic_Hillel Подорож 🚀
 
-  - Video Lessons 🎥 — Links to video lectures that explain Python basics and guide me through different topics.
-  - Tasks 📝 — Various tasks and exercises that helped me practice the concepts I've learned.
-  - Homework 💻 — My completed homework assignments, showcasing my understanding and skills in Python.
-  - Materials 📑 — Additional resources and notes that I found useful during the course.
+Ласкаво просимо до моєї подорожі вивчення Python! 📚 Цей репозиторій документує мій прогрес у курсі Python3_Basic_Hillel. Тут ви знайдете всі основні матеріали та ресурси, які я використовував під час навчання, зокрема:
 
-  This repository serves as a log of my progress, demonstrating how I’ve tackled each topic and task along the way. It’s a reflection of my Python learning path, and I’m excited to share my journey with you! 🌟
+🎥 Відео лекції
+📌 Посилання на відео-лекції, які пояснюють основи Python і проводять через різні теми.
+
+📝 Завдання
+📌 Різноманітні завдання та вправи, що допомогли мені практикувати концепції, які я вивчав.
+
+💻 Домашні завдання
+📌 Мої виконані домашні завдання, що демонструють моє розуміння і навички в Python.
+
+📑 Матеріали
+📌 Додаткові ресурси та нотатки, які я знайшов корисними під час курсу.
+
+Цей репозиторій служить журналом мого прогресу, показуючи, як я долав кожну тему та завдання. Це відображення мого шляху вивчення Python, і я радий поділитися цією подорожжю з вами! 
