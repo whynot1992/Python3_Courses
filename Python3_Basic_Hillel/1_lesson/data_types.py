@@ -1,3 +1,5 @@
+# 1.Створи 10 змінних, дотримуючись правил іменування у Python. У якості даних використовуй типи даних int та str
+
 first_name = "one"
 second_name = 13
 third_naem = "my next text"
@@ -9,6 +11,8 @@ eight_name = 11983921
 nine_name = 312323.3213
 ten_name = "one, two, three"
 
+# 3. За допомогою print() роздрукуй змінні та їхній тип даних
+
 print(first_name, type(first_name))
 print(second_name, type(second_name))
 print(third_naem, type(third_naem))
@@ -19,3 +23,4 @@ print(seven_name, type(seven_name))
 print(eight_name, type(eight_name))
 print(nine_name, type(nine_name))
 print(ten_name, type(ten_name))
+
